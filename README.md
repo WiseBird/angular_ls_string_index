@@ -1,0 +1,1 @@
+Repo contains reproduction of the problem when Angular Language Service shows error for property access on `{[index: string: any]}`.
